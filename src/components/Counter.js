@@ -1,5 +1,5 @@
 import React from 'react'
-import Guess from './Guess'
+
 import './Counter.css'
 //this function will increase the counter once new game is initiailatzed and after each guess is submitted
 
